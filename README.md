@@ -4,7 +4,7 @@
 ```html
 
 ```
-[![jmrodev GitHub stats](https://github-readme-stats.vercel.app/api?username=jmrodev)](https://github.com/jmrodev/github-readme-stats)
+[![jmrodev GitHub stats](https://github-readme-stats.vercel.app/api?username=jmrodev&show_icons=true)]
 ```js
 
 ```
