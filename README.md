@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Marcelo Rodriguez</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmrodev&label=Profile%20views&color=0e75b6&style=flat" alt="jmrodev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jmrodev&label=Profile%20views&color=0e75b6&style=flat" alt="jmrodev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmrodev" alt="jmrodev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmrodev" alt="jmrodev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jmro_dev" target="blank"><img src="https://img.shields.io/twitter/follow/jmro_dev?logo=twitter&style=for-the-badge" alt="jmro_dev" /></a> </p>
 
