@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmrodev&theme=dark)]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmrodev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmrodev&theme=dark)
 
 > 🔭 I’m currently working on javascript
 - 🌱 I’m currently learning ...
