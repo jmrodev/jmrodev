@@ -10,7 +10,7 @@
 
 
 
-> 🔭 I’m currently working on javascript
+- 🔭 I’m currently working on javascript
 - 🌱 I’m currently learning clean code
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with js
