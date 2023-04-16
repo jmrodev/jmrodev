@@ -7,13 +7,13 @@
 
 <p align="center"> <a href="https://twitter.com/jmro_dev" target="blank"><img src="https://img.shields.io/twitter/follow/jmro_dev?logo=twitter&style=for-the-badge" alt="jmro_dev" /></a> </p>
 
-- 🔭 I’m currently working on **Jardin Zarini page**
+- 🔭 I’m currently working on **Course Oracle-One** and **studying computer applications technique in Unicen** 
 
-- 🌱 I’m currently learning **Angular, Typescript, Github Actions**
+- 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **Jardin Zarini page**
+<!--- - 👯 I’m looking to collaborate on **Jardin Zarini page**--->
 
-- 🤝 I’m looking for help with **Jardin Zarini page**
+<!--- - 🤝 I’m looking for help with **Jardin Zarini page** --->
 
 - 💬 Ask me about **JS, Html, Css, Bash**
 
