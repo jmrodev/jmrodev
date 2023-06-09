@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Course Oracle-One** and **studying computer applications technique in Unicen** 
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript** and **Java**
 
 <!--- - 👯 I’m looking to collaborate on **Jardin Zarini page**--->
 
