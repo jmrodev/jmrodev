@@ -39,6 +39,7 @@
 
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/654b8836520b534886926997?variant=dark&roadmaps=full-stack%2Cdevops%2Cdocker%2Ckubernetes" alt="roadmap.sh"/></a>
+<br>
 
 <p><a href="https://ko-fi.com/jmrodev"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jmrodev" /></a></p><br><br>
 
