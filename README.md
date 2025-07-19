@@ -164,13 +164,13 @@ You can visit my GitHub repositories to see more projects that showcase my code 
 
 ---
 
-#### 🎯 My Goal
+#### :dart: My Goal
 
 My goal is to **launch my career in software development**, applying my **Node.js and React skills** to create innovative solutions. I seek to integrate technical and academic knowledge to drive business growth and improve user satisfaction, always with a focus on agility and scalability.
 
 ---
 
-#### 🤝 Let's Connect!
+#### :handshake: Let's Connect!
 
 If you're looking for a dedicated developer with great enthusiasm for continuous learning, I'd love to connect!
 
@@ -180,7 +180,7 @@ If you're looking for a dedicated developer with great enthusiasm for continuous
 
 ---
 
-### 🛠️ Technologies & Tools
+### :wrench: Technologies & Tools
 
 <div align="center">
 
