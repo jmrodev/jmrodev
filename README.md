@@ -10,7 +10,7 @@
 
 ---
 
-## 🇪🇸 Español
+## 🇪🇸 Español {#español}
 
 ### ¡Hola! Soy Juan Marcelo Rodriguez 👋
 
@@ -95,7 +95,7 @@ Si estás buscando un desarrollador dedicado con un gran entusiasmo por el apren
 
 ---
 
-## 🇺🇸 English
+## 🇺🇸 English {#english}
 
 ### Hello! I'm Juan Marcelo Rodriguez 👋
 
