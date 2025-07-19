@@ -20,7 +20,7 @@ Actualmente, estoy cursando la **Tecnicatura Superior en Análisis, Desarrollo y
 
 ---
 
-#### 🚀 Mi Experiencia y Tecnologías
+#### ⚡ Mi Experiencia y Tecnologías
 
 Me especializo en tecnologías backend, bases de datos y gestión de contenedores, siempre con un enfoque en la agilidad empresarial.
 
@@ -105,7 +105,7 @@ Currently, I'm pursuing a **Higher Technical Degree in Analysis, Development and
 
 ---
 
-#### 🚀 My Experience and Technologies
+#### ⚡ My Experience and Technologies
 
 I specialize in backend technologies, databases, and container management, always with a focus on business agility.
 
