@@ -20,7 +20,7 @@ Actualmente, estoy cursando la **Tecnicatura Superior en Análisis, Desarrollo y
 
 ---
 
-#### :zap: Mi Experiencia y Tecnologías
+#### **Mi Experiencia y Tecnologías**
 
 Me especializo en tecnologías backend, bases de datos y gestión de contenedores, siempre con un enfoque en la agilidad empresarial.
 
@@ -41,7 +41,7 @@ Me especializo en tecnologías backend, bases de datos y gestión de contenedore
 
 ---
 
-#### :star: Proyectos Destacados
+#### **Proyectos Destacados**
 
 Me encanta aprender construyendo. Aquí hay algunos proyectos clave que muestran mis habilidades y pasión por el desarrollo, **con un especial énfasis en el Sistema de Gestión de Jardín de Infantes**:
 
@@ -69,7 +69,7 @@ Puedes visitar mis repositorios de GitHub para ver más proyectos que muestran m
 
 ---
 
-#### :mortar_board: Educación y Certificaciones
+#### **Educación y Certificaciones**
 
 *   **Instituto Superior de Formación Docente y Técnica Nº 166**: Tecnicatura Superior en Análisis, Desarrollo y Programación de Aplicaciones (Marzo 2024 - Octubre 2027).
 *   **ONE – Oracle Next Education**: Desarrollador informático, Desarrollo de aplicaciones informáticas (Abril 2023 - Diciembre 2023).
@@ -79,13 +79,13 @@ Puedes visitar mis repositorios de GitHub para ver más proyectos que muestran m
 
 ---
 
-#### :dart: Mi Objetivo
+#### **Mi Objetivo**
 
 Mi objetivo es **lanzar mi carrera en el desarrollo de software**, aplicando mis **habilidades en Node.js y React** para crear soluciones innovadoras. Busco integrar conocimientos técnicos y académicos para impulsar el crecimiento empresarial y mejorar la satisfacción del usuario, siempre con un enfoque en la agilidad y la escalabilidad.
 
 ---
 
-#### :handshake: ¡Conectemos!
+#### **¡Conectemos!**
 
 Si estás buscando un desarrollador dedicado con un gran entusiasmo por el aprendizaje continuo, ¡me encantaría conectar!.
 
