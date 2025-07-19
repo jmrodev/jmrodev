@@ -105,7 +105,7 @@ Currently, I'm pursuing a **Higher Technical Degree in Analysis, Development and
 
 ---
 
-#### :zap: My Experience and Technologies
+#### **My Experience and Technologies**
 
 I specialize in backend technologies, databases, and container management, always with a focus on business agility.
 
@@ -126,7 +126,7 @@ I specialize in backend technologies, databases, and container management, alway
 
 ---
 
-#### :star: Featured Projects
+#### **Featured Projects**
 
 I love learning by building. Here are some key projects that showcase my skills and passion for development, **with special emphasis on the Kindergarten Management System**:
 
@@ -154,7 +154,7 @@ You can visit my GitHub repositories to see more projects that showcase my code 
 
 ---
 
-#### :mortar_board: Education and Certifications
+#### **Education and Certifications**
 
 *   **Instituto Superior de Formación Docente y Técnica Nº 166**: Higher Technical Degree in Analysis, Development and Programming of Applications (March 2024 - October 2027).
 *   **ONE – Oracle Next Education**: Computer Developer, Computer Applications Development (April 2023 - December 2023).
@@ -164,13 +164,13 @@ You can visit my GitHub repositories to see more projects that showcase my code 
 
 ---
 
-#### :dart: My Goal
+#### **My Goal**
 
 My goal is to **launch my career in software development**, applying my **Node.js and React skills** to create innovative solutions. I seek to integrate technical and academic knowledge to drive business growth and improve user satisfaction, always with a focus on agility and scalability.
 
 ---
 
-#### :handshake: Let's Connect!
+#### **Let's Connect!**
 
 If you're looking for a dedicated developer with great enthusiasm for continuous learning, I'd love to connect!
 
@@ -180,7 +180,7 @@ If you're looking for a dedicated developer with great enthusiasm for continuous
 
 ---
 
-### :wrench: Technologies & Tools
+### **Technologies & Tools**
 
 <div align="center">
 
