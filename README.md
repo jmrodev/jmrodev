@@ -184,33 +184,7 @@ If you're looking for a dedicated developer with great enthusiasm for continuous
 
 <div align="center">
 
-#### 🖥️ **Backend & Runtime**
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/ProgrammingLanguages/NodeJS.svg" alt="Node.js" width="16" height="16"/></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/Frameworks/ExpressJS.svg" alt="Express.js" width="16" height="16"/></a>
-
-#### 🎨 **Frontend**
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/Frameworks/React.svg" alt="React" width="16" height="16"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/ProgrammingLanguages/JavaScript.svg" alt="JavaScript" width="16" height="16"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/ProgrammingLanguages/HTML5.svg" alt="HTML5" width="16" height="16"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/ProgrammingLanguages/CSS3.svg" alt="CSS3" width="16" height="16"/></a>
-
-#### 🗄️ **Databases**
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/Databases/MySQL.svg" alt="MySQL" width="16" height="16"/></a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/Databases/MariaDB.svg" alt="MariaDB" width="16" height="16"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/Databases/MongoDB.svg" alt="MongoDB" width="16" height="16"/></a>
-
-#### 🚀 **DevOps & Tools**
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/DevOps/Docker.svg" alt="Docker" width="16" height="16"/></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/DevOps/Kubernetes.svg" alt="Kubernetes" width="16" height="16"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/DevOps/Git.svg" alt="Git" width="16" height="16"/></a>
-
-#### 💻 **Operating Systems**
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/OperatingSystems/Linux.svg" alt="Linux" width="16" height="16"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/ProgrammingLanguages/Bash.svg" alt="Bash" width="16" height="16"/></a>
-
-#### ⚙️ **Build Tools**
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/BuildTools/Vite.svg" alt="Vite" width="16" height="16"/></a>
-<a href="https://pnpm.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/PackageManagers/pnpm.svg" alt="pnpm" width="16" height="16"/></a>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,js,html,css,mysql,mongodb,docker,kubernetes,git,linux,bash,vite)](https://skillicons.dev)
 
 </div>
 
