@@ -20,7 +20,7 @@ Actualmente, estoy cursando la **Tecnicatura Superior en Análisis, Desarrollo y
 
 ---
 
-#### ⚡ Mi Experiencia y Tecnologías
+#### :zap: Mi Experiencia y Tecnologías
 
 Me especializo en tecnologías backend, bases de datos y gestión de contenedores, siempre con un enfoque en la agilidad empresarial.
 
@@ -41,7 +41,7 @@ Me especializo en tecnologías backend, bases de datos y gestión de contenedore
 
 ---
 
-#### ✨ Proyectos Destacados
+#### :star: Proyectos Destacados
 
 Me encanta aprender construyendo. Aquí hay algunos proyectos clave que muestran mis habilidades y pasión por el desarrollo, **con un especial énfasis en el Sistema de Gestión de Jardín de Infantes**:
 
@@ -69,7 +69,7 @@ Puedes visitar mis repositorios de GitHub para ver más proyectos que muestran m
 
 ---
 
-#### 🎓 Educación y Certificaciones
+#### :mortar_board: Educación y Certificaciones
 
 *   **Instituto Superior de Formación Docente y Técnica Nº 166**: Tecnicatura Superior en Análisis, Desarrollo y Programación de Aplicaciones (Marzo 2024 - Octubre 2027).
 *   **ONE – Oracle Next Education**: Desarrollador informático, Desarrollo de aplicaciones informáticas (Abril 2023 - Diciembre 2023).
@@ -79,13 +79,13 @@ Puedes visitar mis repositorios de GitHub para ver más proyectos que muestran m
 
 ---
 
-#### 🎯 Mi Objetivo
+#### :dart: Mi Objetivo
 
 Mi objetivo es **lanzar mi carrera en el desarrollo de software**, aplicando mis **habilidades en Node.js y React** para crear soluciones innovadoras. Busco integrar conocimientos técnicos y académicos para impulsar el crecimiento empresarial y mejorar la satisfacción del usuario, siempre con un enfoque en la agilidad y la escalabilidad.
 
 ---
 
-#### 🤝 ¡Conectemos!
+#### :handshake: ¡Conectemos!
 
 Si estás buscando un desarrollador dedicado con un gran entusiasmo por el aprendizaje continuo, ¡me encantaría conectar!.
 
@@ -105,7 +105,7 @@ Currently, I'm pursuing a **Higher Technical Degree in Analysis, Development and
 
 ---
 
-#### ⚡ My Experience and Technologies
+#### :zap: My Experience and Technologies
 
 I specialize in backend technologies, databases, and container management, always with a focus on business agility.
 
@@ -126,7 +126,7 @@ I specialize in backend technologies, databases, and container management, alway
 
 ---
 
-#### ✨ Featured Projects
+#### :star: Featured Projects
 
 I love learning by building. Here are some key projects that showcase my skills and passion for development, **with special emphasis on the Kindergarten Management System**:
 
@@ -154,7 +154,7 @@ You can visit my GitHub repositories to see more projects that showcase my code 
 
 ---
 
-#### 🎓 Education and Certifications
+#### :mortar_board: Education and Certifications
 
 *   **Instituto Superior de Formación Docente y Técnica Nº 166**: Higher Technical Degree in Analysis, Development and Programming of Applications (March 2024 - October 2027).
 *   **ONE – Oracle Next Education**: Computer Developer, Computer Applications Development (April 2023 - December 2023).
