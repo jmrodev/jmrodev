@@ -1,9 +1,8 @@
 <div align="center">
   <h1>¡Hola! Soy Juan Marcelo Rodriguez </h1>
-  <h1>Hello! I'm Juan Marcelo Rodriguez </h1>
-  
+  <a href="#español">🇪🇸 Español</a> | 
   <p>
-    <a href="#español">🇪🇸 Español</a> | 
+    <h1>Hello! I'm Juan Marcelo Rodriguez </h1>
     <a href="#english">🇺🇸 English</a>
   </p>
 </div>
