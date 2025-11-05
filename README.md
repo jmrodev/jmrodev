@@ -1,8 +1,10 @@
 <div align="center">
   <h1>¡Hola! Soy Juan Marcelo Rodriguez </h1>
-  <a href="#español">🇪🇸 Español</a> | 
+  <a href="https://github.com/jmrodev?tab=repositories"> Mis repositorios </a>
+  <a href="#español">🇪🇸 Español</a>  
   <p>
     <h1>Hello! I'm Juan Marcelo Rodriguez </h1>
+    <a href="https://github.com/jmrodev?tab=repositories">My repositories </a>
     <a href="#english">🇺🇸 English</a>
   </p>
 </div>
