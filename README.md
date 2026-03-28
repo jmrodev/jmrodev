@@ -41,22 +41,18 @@ I specialize in backend technologies, databases, and container management, alway
 
 #### **Featured Projects**
 
-I love learning by building. Here are some key projects that showcase my skills and passion for development, **with special emphasis on the Kindergarten Management System**:
+I love learning by building. Here are some key projects that showcase my skills and passion for development, including **real-world projects currently in active use**:
 
-*   **🏫 Kindergarten Management System (`jmrodev/jardin`)**
-    *   This is a **comprehensive full-stack web application** designed for **kindergarten management**. It allows administration of students, teachers, parents, attendance, and generates statistical reports.
-    *   **Repository**: [https://github.com/jmrodev/jardin](https://github.com/jmrodev/jardin)
-    *   **Main Features**:
-        *   **People Management**: Complete registration and administration of students (with personal information, assigned classroom, shift, status), teachers (with specializations), parents/guardians (contact information, family relationships), directors and preceptors.
-        *   **Dashboard and Statistics**: Control panel with real-time metrics, student demographic analysis, attendance charts, customizable reports and PDF data export.
-        *   **Classroom Management**: Age-based room configuration, student assignment to classrooms, and capacity and shift control.
-        *   **Attendance Control**: Daily attendance registration (present, absent, justified), student observations and attendance reports.
-        *   **Robust Authentication System**: Differentiated roles and permissions, JWT authentication, password encryption (using bcryptjs), and feature-based access control.
-        *   **Internationalization**: Multi-language support (Spanish/English), adaptive interface and regional date formatting.
-    *   **Technologies**: Built with **Node.js** and **Express.js** for the backend, **MySQL** as database, and **React 19** with **Vite** for the frontend. Also uses JWT, bcryptjs, Chart.js, and i18next.
+*   **🗂️ Secretary App (`jmrodev/secretary-app`) — In real-world use**
+    *   **Repository**: [https://github.com/jmrodev/secretary-app](https://github.com/jmrodev/secretary-app)
+
+*   **🏫 Kindergarten Management System (`jmrodev/kindergarten_management`) — In real-world use**
+    *   A **comprehensive full-stack web application** designed for **kindergarten management**. It allows administration of students, teachers, parents, attendance, and generates statistical reports.
+    *   **Repository**: [https://github.com/jmrodev/kindergarten_management](https://github.com/jmrodev/kindergarten_management)
     *   **Live Demo**: [jardin-xi.vercel.app](http://jardin-xi.vercel.app/).
-    *   **Contribution**: Developed by the **Development Team**, with **jmrodev (Juan Marcelo Rodriguez)** as a key collaborator.
-    *   **Note**: This system is specifically designed for kindergartens and complies with security and privacy standards for handling minors' data. It is licensed under the **MIT License**.
+
+*   **⏱️ Time Tracker UNICEN (`jmrodev/timetracker-unicen-zarini`) — In real-world use**
+    *   **Repository**: [https://github.com/jmrodev/timetracker-unicen-zarini](https://github.com/jmrodev/timetracker-unicen-zarini)
 
 *   **🤖 AI Consumption Console Application**: [https://github.com/jmrodev/ask_gemini_nodejs](https://github.com/jmrodev/ask_gemini_nodejs).
 *   **💬 Telegram Chatbot for Medical Office Management**: [https://github.com/jmrodev/telegram-bot](https://github.com/jmrodev/telegram-bot).
@@ -134,22 +130,18 @@ Me especializo en tecnologías backend, bases de datos y gestión de contenedore
 
 #### **Proyectos Destacados**
 
-Me encanta aprender construyendo. Aquí hay algunos proyectos clave que muestran mis habilidades y pasión por el desarrollo, **con un especial énfasis en el Sistema de Gestión de Jardín de Infantes**:
+Me encanta aprender construyendo. Aquí hay algunos proyectos clave que muestran mis habilidades y pasión por el desarrollo, incluyendo **proyectos reales actualmente en uso**:
 
-*   **🏫 Sistema de Gestión de Jardín de Infantes (`jmrodev/jardin`)**
+*   **🗂️ Secretary App (`jmrodev/secretary-app`) — En uso real**
+    *   **Repositorio**: [https://github.com/jmrodev/secretary-app](https://github.com/jmrodev/secretary-app)
+
+*   **🏫 Sistema de Gestión de Jardín de Infantes (`jmrodev/kindergarten_management`) — En uso real**
     *   Esta es una **aplicación web full-stack integral** diseñada para la **gestión de jardines de infantes**. Permite la administración de estudiantes, maestros, padres, asistencia y genera reportes estadísticos.
-    *   **Repositorio**: [https://github.com/jmrodev/jardin](https://github.com/jmrodev/jardin)
-    *   **Características Principales**:
-        *   **Gestión de Personas**: Registro completo y administración de estudiantes (con información personal, aula asignada, turno, estado), maestros (con especializaciones), padres/tutores (información de contacto, relaciones familiares), directores y preceptores.
-        *   **Dashboard y Estadísticas**: Panel de control con métricas en tiempo real, análisis demográfico de estudiantes, gráficos de asistencia, reportes personalizables y exportación de datos en PDF.
-        *   **Gestión de Aulas**: Configuración de salas por edad, asignación de estudiantes a aulas, y control de capacidad y turnos.
-        *   **Control de Asistencia**: Registro diario de asistencia (presente, ausente, justificado), observaciones de estudiantes y reportes de asistencia.
-        *   **Sistema de Autenticación Robusto**: Roles y permisos diferenciados, autenticación JWT, encriptación de contraseñas (usando bcryptjs), y control de acceso por funcionalidad.
-        *   **Internacionalización**: Soporte multi-idioma (Español/Inglés), interfaz adaptativa y formateo de fechas por región.
-    *   **Tecnologías**: Construido con **Node.js** y **Express.js** para el backend, **MySQL** como base de datos, y **React 19** con **Vite** para el frontend. También utiliza JWT, bcryptjs, Chart.js, y i18next.
+    *   **Repositorio**: [https://github.com/jmrodev/kindergarten_management](https://github.com/jmrodev/kindergarten_management)
     *   **Demo en Vivo**: [jardin-xi.vercel.app](http://jardin-xi.vercel.app/).
-    *   **Contribución**: Desarrollado por el **Equipo de Desarrollo**, con **jmrodev (Juan Marcelo Rodriguez)** como colaborador clave.
-    *   **Nota**: Este sistema está diseñado específicamente para jardines de infantes y cumple con los estándares de seguridad y privacidad para el manejo de datos de menores. Está licenciado bajo la **Licencia MIT**.
+
+*   **⏱️ Time Tracker UNICEN (`jmrodev/timetracker-unicen-zarini`) — En uso real**
+    *   **Repositorio**: [https://github.com/jmrodev/timetracker-unicen-zarini](https://github.com/jmrodev/timetracker-unicen-zarini)
 
 *   **🤖 Aplicación de Consumo de IA por Consola**: [https://github.com/jmrodev/ask_gemini_nodejs](https://github.com/jmrodev/ask_gemini_nodejs).
 *   **💬 Chatbot de Telegram para Gestión de Consultorio Médico**: [https://github.com/jmrodev/telegram-bot](https://github.com/jmrodev/telegram-bot).
@@ -186,5 +178,10 @@ Si estás buscando un desarrollador dedicado con un gran entusiasmo por el apren
 
 ---
 
+### **Tecnologías y Herramientas**
 
+<div align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,js,html,css,mysql,mongodb,docker,kubernetes,git,linux,bash,vite)](https://skillicons.dev)
+
+</div>
