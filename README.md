@@ -8,92 +8,6 @@
 </div>
 
 ---
-
-## 🇪🇸 Español {#español}
-
-### ¡Hola! Soy Juan Marcelo Rodriguez 👋
-
-Bienvenido a mi perfil. Soy un **estudiante avanzado de desarrollo de software** con sede en Tandil, Buenos Aires, Argentina. Me apasiona el **análisis y diseño de sistemas**, y la construcción de **aplicaciones robustas, escalables y eficientes**. Mi experiencia abarca desde el **desarrollo backend hasta el frontend**, con un sólido dominio de tecnologías fundamentales.
-
-Actualmente, estoy cursando la **Tecnicatura Superior en Análisis, Desarrollo y Programación de Aplicaciones (TECDA)** en el Instituto 166 de Tandil, Buenos Aires, Argentina. Soy un desarrollador de software emergente con **competencia avanzada en Node.js** y conocimientos fundamentales de React.
-
----
-
-#### **Mi Experiencia y Tecnologías**
-
-Me especializo en tecnologías backend, bases de datos y gestión de contenedores, siempre con un enfoque en la agilidad empresarial.
-
-*   **Desarrollo Backend**:
-    *   Sólida experiencia con **Node.js** y **REST APIs**.
-    *   Bases de datos: **MySQL (SQL)** y **MongoDB (NoSQL)**.
-    *   Autenticación y Seguridad: **JWT**, **bcryptjs**.
-    *   Validación y Manejo de Archivos: **express-validator**, **multer**.
-*   **Desarrollo Frontend**:
-    *   Conocimientos fundamentales de **React** (incluyendo **React 19** con **Vite**).
-    *   Tecnologías Web Centrales: **HTML**, **CSS** (incluyendo **CSS Modules**), **JavaScript**.
-    *   Librerías: **React Router**, **Chart.js** (para gráficos), **i18next** (para internacionalización), **Lucide React** (para iconos).
-*   **Análisis y Diseño de Sistemas**: Familiaridad con el análisis de sistemas, incluida la creación de DFDs (Diagramas de Flujo de Datos).
-*   **Gestión de Contenedores**: Experiencia práctica con **Docker** y **Kubernetes**.
-*   **Sistemas Operativos**: Competente en **GNU-Linux**.
-*   **Herramientas de Desarrollo**: **ESLint**, **Vite** (bundler), **pnpm** (gestor de paquetes).
-*   **Agilidad Empresarial**: Cursos especializados completados en **SCRUM** y **Programación Orientada a Objetos (POO)**.
-
----
-
-#### **Proyectos Destacados**
-
-Me encanta aprender construyendo. Aquí hay algunos proyectos clave que muestran mis habilidades y pasión por el desarrollo, **con un especial énfasis en el Sistema de Gestión de Jardín de Infantes**:
-
-*   **🏫 Sistema de Gestión de Jardín de Infantes (`jmrodev/jardin`)**
-    *   Esta es una **aplicación web full-stack integral** diseñada para la **gestión de jardines de infantes**. Permite la administración de estudiantes, maestros, padres, asistencia y genera reportes estadísticos.
-    *   **Repositorio**: [https://github.com/jmrodev/jardin](https://github.com/jmrodev/jardin)
-    *   **Características Principales**:
-        *   **Gestión de Personas**: Registro completo y administración de estudiantes (con información personal, aula asignada, turno, estado), maestros (con especializaciones), padres/tutores (información de contacto, relaciones familiares), directores y preceptores.
-        *   **Dashboard y Estadísticas**: Panel de control con métricas en tiempo real, análisis demográfico de estudiantes, gráficos de asistencia, reportes personalizables y exportación de datos en PDF.
-        *   **Gestión de Aulas**: Configuración de salas por edad, asignación de estudiantes a aulas, y control de capacidad y turnos.
-        *   **Control de Asistencia**: Registro diario de asistencia (presente, ausente, justificado), observaciones de estudiantes y reportes de asistencia.
-        *   **Sistema de Autenticación Robusto**: Roles y permisos diferenciados, autenticación JWT, encriptación de contraseñas (usando bcryptjs), y control de acceso por funcionalidad.
-        *   **Internacionalización**: Soporte multi-idioma (Español/Inglés), interfaz adaptativa y formateo de fechas por región.
-    *   **Tecnologías**: Construido con **Node.js** y **Express.js** para el backend, **MySQL** como base de datos, y **React 19** con **Vite** para el frontend. También utiliza JWT, bcryptjs, Chart.js, y i18next.
-    *   **Demo en Vivo**: [jardin-xi.vercel.app](http://jardin-xi.vercel.app/).
-    *   **Contribución**: Desarrollado por el **Equipo de Desarrollo**, con **jmrodev (Juan Marcelo Rodriguez)** como colaborador clave.
-    *   **Nota**: Este sistema está diseñado específicamente para jardines de infantes y cumple con los estándares de seguridad y privacidad para el manejo de datos de menores. Está licenciado bajo la **Licencia MIT**.
-
-*   **🤖 Aplicación de Consumo de IA por Consola**: [https://github.com/jmrodev/ask_gemini_nodejs](https://github.com/jmrodev/ask_gemini_nodejs).
-*   **💬 Chatbot de Telegram para Gestión de Consultorio Médico**: [https://github.com/jmrodev/telegram-bot](https://github.com/jmrodev/telegram-bot).
-*   **📚 Proyecto de Apoyo de Material de Estudio para Compañeros**: [https://github.com/jmrodev/Inst_166_Tecda_Tandil](https://github.com/jmrodev/Inst_166_Tecda_Tandil).
-*   **💲 Proyecto de Conversor de Monedas Java Swing**: [https://github.com/jmrodev/Conversor-de-monedas-java-Swing](https://github.com/jmrodev/Conversor-de-monedas-java-Swing).
-
-Puedes visitar mis repositorios de GitHub para ver más proyectos que muestran mi código y habilidades.
-
----
-
-#### **Educación y Certificaciones**
-
-*   **Instituto Superior de Formación Docente y Técnica Nº 166**: Tecnicatura Superior en Análisis, Desarrollo y Programación de Aplicaciones (Marzo 2024 - Octubre 2027).
-*   **ONE – Oracle Next Education**: Desarrollador informático, Desarrollo de aplicaciones informáticas (Abril 2023 - Diciembre 2023).
-    *   Certificado a través del programa Oracle-One en Alura, destacándose en lógica de programación.
-*   **Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)**: TUDAI (Tecnicatura Universitaria de Aplicaciones Informáticas) (Marzo 2017 - Diciembre 2027).
-*   **Certificaciones**: Argentina Programa, Formación Desarrollo Personal G5 - ONE, Administración de MySQL: Seguridad y optimización de la base de datos - Parte 2, Formación Principiante en Programación G5 - ONE, Programa Oracle Next Education F2 T5 Back-end.
-
----
-
-#### **Mi Objetivo**
-
-Mi objetivo es **lanzar mi carrera en el desarrollo de software**, aplicando mis **habilidades en Node.js y React** para crear soluciones innovadoras. Busco integrar conocimientos técnicos y académicos para impulsar el crecimiento empresarial y mejorar la satisfacción del usuario, siempre con un enfoque en la agilidad y la escalabilidad.
-
----
-
-#### **¡Conectemos!**
-
-Si estás buscando un desarrollador dedicado con un gran entusiasmo por el aprendizaje continuo, ¡me encantaría conectar!.
-
-*   **Correo Electrónico**: juanmarcelo.rodrigueztandil@gmail.com.
-*   **LinkedIn**: [in/juan-marcelo-rodriguez](https://www.linkedin.com/in/juan-marcelo-rodriguez).
-*   **X (Twitter)**: [@jmro_dev](https://x.com/jmro_dev).
-
----
-
 ## 🇺🇸 English {#english}
 
 ### Hello! I'm Juan Marcelo Rodriguez 👋
@@ -186,5 +100,91 @@ If you're looking for a dedicated developer with great enthusiasm for continuous
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,js,html,css,mysql,mongodb,docker,kubernetes,git,linux,bash,vite)](https://skillicons.dev)
 
 </div>
+---
+## 🇪🇸 Español {#español}
+
+### ¡Hola! Soy Juan Marcelo Rodriguez 👋
+
+Bienvenido a mi perfil. Soy un **estudiante avanzado de desarrollo de software** con sede en Tandil, Buenos Aires, Argentina. Me apasiona el **análisis y diseño de sistemas**, y la construcción de **aplicaciones robustas, escalables y eficientes**. Mi experiencia abarca desde el **desarrollo backend hasta el frontend**, con un sólido dominio de tecnologías fundamentales.
+
+Actualmente, estoy cursando la **Tecnicatura Superior en Análisis, Desarrollo y Programación de Aplicaciones (TECDA)** en el Instituto 166 de Tandil, Buenos Aires, Argentina. Soy un desarrollador de software emergente con **competencia avanzada en Node.js** y conocimientos fundamentales de React.
+
+---
+
+#### **Mi Experiencia y Tecnologías**
+
+Me especializo en tecnologías backend, bases de datos y gestión de contenedores, siempre con un enfoque en la agilidad empresarial.
+
+*   **Desarrollo Backend**:
+    *   Sólida experiencia con **Node.js** y **REST APIs**.
+    *   Bases de datos: **MySQL (SQL)** y **MongoDB (NoSQL)**.
+    *   Autenticación y Seguridad: **JWT**, **bcryptjs**.
+    *   Validación y Manejo de Archivos: **express-validator**, **multer**.
+*   **Desarrollo Frontend**:
+    *   Conocimientos fundamentales de **React** (incluyendo **React 19** con **Vite**).
+    *   Tecnologías Web Centrales: **HTML**, **CSS** (incluyendo **CSS Modules**), **JavaScript**.
+    *   Librerías: **React Router**, **Chart.js** (para gráficos), **i18next** (para internacionalización), **Lucide React** (para iconos).
+*   **Análisis y Diseño de Sistemas**: Familiaridad con el análisis de sistemas, incluida la creación de DFDs (Diagramas de Flujo de Datos).
+*   **Gestión de Contenedores**: Experiencia práctica con **Docker** y **Kubernetes**.
+*   **Sistemas Operativos**: Competente en **GNU-Linux**.
+*   **Herramientas de Desarrollo**: **ESLint**, **Vite** (bundler), **pnpm** (gestor de paquetes).
+*   **Agilidad Empresarial**: Cursos especializados completados en **SCRUM** y **Programación Orientada a Objetos (POO)**.
+
+---
+
+#### **Proyectos Destacados**
+
+Me encanta aprender construyendo. Aquí hay algunos proyectos clave que muestran mis habilidades y pasión por el desarrollo, **con un especial énfasis en el Sistema de Gestión de Jardín de Infantes**:
+
+*   **🏫 Sistema de Gestión de Jardín de Infantes (`jmrodev/jardin`)**
+    *   Esta es una **aplicación web full-stack integral** diseñada para la **gestión de jardines de infantes**. Permite la administración de estudiantes, maestros, padres, asistencia y genera reportes estadísticos.
+    *   **Repositorio**: [https://github.com/jmrodev/jardin](https://github.com/jmrodev/jardin)
+    *   **Características Principales**:
+        *   **Gestión de Personas**: Registro completo y administración de estudiantes (con información personal, aula asignada, turno, estado), maestros (con especializaciones), padres/tutores (información de contacto, relaciones familiares), directores y preceptores.
+        *   **Dashboard y Estadísticas**: Panel de control con métricas en tiempo real, análisis demográfico de estudiantes, gráficos de asistencia, reportes personalizables y exportación de datos en PDF.
+        *   **Gestión de Aulas**: Configuración de salas por edad, asignación de estudiantes a aulas, y control de capacidad y turnos.
+        *   **Control de Asistencia**: Registro diario de asistencia (presente, ausente, justificado), observaciones de estudiantes y reportes de asistencia.
+        *   **Sistema de Autenticación Robusto**: Roles y permisos diferenciados, autenticación JWT, encriptación de contraseñas (usando bcryptjs), y control de acceso por funcionalidad.
+        *   **Internacionalización**: Soporte multi-idioma (Español/Inglés), interfaz adaptativa y formateo de fechas por región.
+    *   **Tecnologías**: Construido con **Node.js** y **Express.js** para el backend, **MySQL** como base de datos, y **React 19** con **Vite** para el frontend. También utiliza JWT, bcryptjs, Chart.js, y i18next.
+    *   **Demo en Vivo**: [jardin-xi.vercel.app](http://jardin-xi.vercel.app/).
+    *   **Contribución**: Desarrollado por el **Equipo de Desarrollo**, con **jmrodev (Juan Marcelo Rodriguez)** como colaborador clave.
+    *   **Nota**: Este sistema está diseñado específicamente para jardines de infantes y cumple con los estándares de seguridad y privacidad para el manejo de datos de menores. Está licenciado bajo la **Licencia MIT**.
+
+*   **🤖 Aplicación de Consumo de IA por Consola**: [https://github.com/jmrodev/ask_gemini_nodejs](https://github.com/jmrodev/ask_gemini_nodejs).
+*   **💬 Chatbot de Telegram para Gestión de Consultorio Médico**: [https://github.com/jmrodev/telegram-bot](https://github.com/jmrodev/telegram-bot).
+*   **📚 Proyecto de Apoyo de Material de Estudio para Compañeros**: [https://github.com/jmrodev/Inst_166_Tecda_Tandil](https://github.com/jmrodev/Inst_166_Tecda_Tandil).
+*   **💲 Proyecto de Conversor de Monedas Java Swing**: [https://github.com/jmrodev/Conversor-de-monedas-java-Swing](https://github.com/jmrodev/Conversor-de-monedas-java-Swing).
+
+Puedes visitar mis repositorios de GitHub para ver más proyectos que muestran mi código y habilidades.
+
+---
+
+#### **Educación y Certificaciones**
+
+*   **Instituto Superior de Formación Docente y Técnica Nº 166**: Tecnicatura Superior en Análisis, Desarrollo y Programación de Aplicaciones (Marzo 2024 - Octubre 2027).
+*   **ONE – Oracle Next Education**: Desarrollador informático, Desarrollo de aplicaciones informáticas (Abril 2023 - Diciembre 2023).
+    *   Certificado a través del programa Oracle-One en Alura, destacándose en lógica de programación.
+*   **Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)**: TUDAI (Tecnicatura Universitaria de Aplicaciones Informáticas) (Marzo 2017 - Diciembre 2027).
+*   **Certificaciones**: Argentina Programa, Formación Desarrollo Personal G5 - ONE, Administración de MySQL: Seguridad y optimización de la base de datos - Parte 2, Formación Principiante en Programación G5 - ONE, Programa Oracle Next Education F2 T5 Back-end.
+
+---
+
+#### **Mi Objetivo**
+
+Mi objetivo es **lanzar mi carrera en el desarrollo de software**, aplicando mis **habilidades en Node.js y React** para crear soluciones innovadoras. Busco integrar conocimientos técnicos y académicos para impulsar el crecimiento empresarial y mejorar la satisfacción del usuario, siempre con un enfoque en la agilidad y la escalabilidad.
+
+---
+
+#### **¡Conectemos!**
+
+Si estás buscando un desarrollador dedicado con un gran entusiasmo por el aprendizaje continuo, ¡me encantaría conectar!.
+
+*   **Correo Electrónico**: juanmarcelo.rodrigueztandil@gmail.com.
+*   **LinkedIn**: [in/juan-marcelo-rodriguez](https://www.linkedin.com/in/juan-marcelo-rodriguez).
+*   **X (Twitter)**: [@jmro_dev](https://x.com/jmro_dev).
+
+---
+
 
 
