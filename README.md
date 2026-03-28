@@ -17,7 +17,6 @@ Welcome to my profile! I'm an **advanced software development student** based in
 Currently, I'm pursuing a **Higher Technical Degree in Analysis, Development and Programming of Applications (TECDA)** at Institute 166 in Tandil, Buenos Aires, Argentina. I'm an emerging software developer with **advanced competence in Node.js** and fundamental knowledge of React.
 
 ---
-
 #### **My Experience and Technologies**
 
 I specialize in backend technologies, databases, and container management, always with a focus on business agility.
@@ -38,7 +37,6 @@ I specialize in backend technologies, databases, and container management, alway
 *   **Business Agility**: Specialized courses completed in **SCRUM** and **Object-Oriented Programming (OOP)**.
 
 ---
-
 #### **Featured Projects**
 
 I love learning by building. Here are some key projects that showcase my skills and passion for development, including **real-world projects currently in active use**:
@@ -49,20 +47,16 @@ I love learning by building. Here are some key projects that showcase my skills 
 *   **🏫 Kindergarten Management System (`jmrodev/kindergarten_management`) — In real-world use**
     *   A **comprehensive full-stack web application** designed for **kindergarten management**. It allows administration of students, teachers, parents, attendance, and generates statistical reports.
     *   **Repository**: [https://github.com/jmrodev/kindergarten_management](https://github.com/jmrodev/kindergarten_management)
-    *   **Live Demo**: [jardin-xi.vercel.app](http://jardin-xi.vercel.app/).
 
 *   **⏱️ Time Tracker UNICEN (`jmrodev/timetracker-unicen-zarini`) — In real-world use**
     *   **Repository**: [https://github.com/jmrodev/timetracker-unicen-zarini](https://github.com/jmrodev/timetracker-unicen-zarini)
 
-*   **🤖 AI Consumption Console Application**: [https://github.com/jmrodev/ask_gemini_nodejs](https://github.com/jmrodev/ask_gemini_nodejs).
-*   **💬 Telegram Chatbot for Medical Office Management**: [https://github.com/jmrodev/telegram-bot](https://github.com/jmrodev/telegram-bot).
 *   **📚 Study Material Support Project for Classmates**: [https://github.com/jmrodev/Inst_166_Tecda_Tandil](https://github.com/jmrodev/Inst_166_Tecda_Tandil).
 *   **💲 Java Swing Currency Converter Project**: [https://github.com/jmrodev/Conversor-de-monedas-java-Swing](https://github.com/jmrodev/Conversor-de-monedas-java-Swing).
 
 You can visit my GitHub repositories to see more projects that showcase my code and skills.
 
 ---
-
 #### **Education and Certifications**
 
 *   **Instituto Superior de Formación Docente y Técnica Nº 166**: Higher Technical Degree in Analysis, Development and Programming of Applications (March 2024 - October 2027).
@@ -72,13 +66,11 @@ You can visit my GitHub repositories to see more projects that showcase my code 
 *   **Certifications**: Argentina Programa, Personal Development Training G5 - ONE, MySQL Administration: Database Security and Optimization - Part 2, Beginner Programming Training G5 - ONE, Oracle Next Education Program F2 T5 Back-end.
 
 ---
-
 #### **My Goal**
 
 My goal is to **launch my career in software development**, applying my **Node.js and React skills** to create innovative solutions. I seek to integrate technical and academic knowledge to drive business growth and improve user satisfaction, always with a focus on agility and scalability.
 
 ---
-
 #### **Let's Connect!**
 
 If you're looking for a dedicated developer with great enthusiasm for continuous learning, I'd love to connect!
@@ -88,7 +80,6 @@ If you're looking for a dedicated developer with great enthusiasm for continuous
 *   **X (Twitter)**: [@jmro_dev](https://x.com/jmro_dev).
 
 ---
-
 ### **Technologies & Tools**
 
 <div align="center">
@@ -106,7 +97,6 @@ Bienvenido a mi perfil. Soy un **estudiante avanzado de desarrollo de software**
 Actualmente, estoy cursando la **Tecnicatura Superior en Análisis, Desarrollo y Programación de Aplicaciones (TECDA)** en el Instituto 166 de Tandil, Buenos Aires, Argentina. Soy un desarrollador de software emergente con **competencia avanzada en Node.js** y conocimientos fundamentales de React.
 
 ---
-
 #### **Mi Experiencia y Tecnologías**
 
 Me especializo en tecnologías backend, bases de datos y gestión de contenedores, siempre con un enfoque en la agilidad empresarial.
@@ -127,7 +117,6 @@ Me especializo en tecnologías backend, bases de datos y gestión de contenedore
 *   **Agilidad Empresarial**: Cursos especializados completados en **SCRUM** y **Programación Orientada a Objetos (POO)**.
 
 ---
-
 #### **Proyectos Destacados**
 
 Me encanta aprender construyendo. Aquí hay algunos proyectos clave que muestran mis habilidades y pasión por el desarrollo, incluyendo **proyectos reales actualmente en uso**:
@@ -138,46 +127,39 @@ Me encanta aprender construyendo. Aquí hay algunos proyectos clave que muestran
 *   **🏫 Sistema de Gestión de Jardín de Infantes (`jmrodev/kindergarten_management`) — En uso real**
     *   Esta es una **aplicación web full-stack integral** diseñada para la **gestión de jardines de infantes**. Permite la administración de estudiantes, maestros, padres, asistencia y genera reportes estadísticos.
     *   **Repositorio**: [https://github.com/jmrodev/kindergarten_management](https://github.com/jmrodev/kindergarten_management)
-    *   **Demo en Vivo**: [jardin-xi.vercel.app](http://jardin-xi.vercel.app/).
 
 *   **⏱️ Time Tracker UNICEN (`jmrodev/timetracker-unicen-zarini`) — En uso real**
     *   **Repositorio**: [https://github.com/jmrodev/timetracker-unicen-zarini](https://github.com/jmrodev/timetracker-unicen-zarini)
 
-*   **🤖 Aplicación de Consumo de IA por Consola**: [https://github.com/jmrodev/ask_gemini_nodejs](https://github.com/jmrodev/ask_gemini_nodejs).
-*   **💬 Chatbot de Telegram para Gestión de Consultorio Médico**: [https://github.com/jmrodev/telegram-bot](https://github.com/jmrodev/telegram-bot).
 *   **📚 Proyecto de Apoyo de Material de Estudio para Compañeros**: [https://github.com/jmrodev/Inst_166_Tecda_Tandil](https://github.com/jmrodev/Inst_166_Tecda_Tandil).
 *   **💲 Proyecto de Conversor de Monedas Java Swing**: [https://github.com/jmrodev/Conversor-de-monedas-java-Swing](https://github.com/jmrodev/Conversor-de-monedas-java-Swing).
 
 Puedes visitar mis repositorios de GitHub para ver más proyectos que muestran mi código y habilidades.
 
 ---
-
 #### **Educación y Certificaciones**
 
 *   **Instituto Superior de Formación Docente y Técnica Nº 166**: Tecnicatura Superior en Análisis, Desarrollo y Programación de Aplicaciones (Marzo 2024 - Octubre 2027).
 *   **ONE – Oracle Next Education**: Desarrollador informático, Desarrollo de aplicaciones informáticas (Abril 2023 - Diciembre 2023).
     *   Certificado a través del programa Oracle-One en Alura, destacándose en lógica de programación.
 *   **Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)**: TUDAI (Tecnicatura Universitaria de Aplicaciones Informáticas) (Marzo 2017 - Diciembre 2027).
-*   **Certificaciones**: Argentina Programa, Formación Desarrollo Personal G5 - ONE, Administración de MySQL: Seguridad y optimización de la base de datos - Parte 2, Formación Principiante en Programación G5 - ONE, Programa Oracle Next Education F2 T5 Back-end.
+*   **Certificaciones**: Argentina Programa, Formación Desarrollo Personal G5 - ONE, Administración de MySQL: Seguridad y optimización de la base de datos - Parte 2, Formación Principiante en Programación G5 - ONE, Programa Oracle Next Education Program F2 T5 Back-end.
 
 ---
-
 #### **Mi Objetivo**
 
 Mi objetivo es **lanzar mi carrera en el desarrollo de software**, aplicando mis **habilidades en Node.js y React** para crear soluciones innovadoras. Busco integrar conocimientos técnicos y académicos para impulsar el crecimiento empresarial y mejorar la satisfacción del usuario, siempre con un enfoque en la agilidad y la escalabilidad.
 
 ---
-
 #### **¡Conectemos!**
 
-Si estás buscando un desarrollador dedicado con un gran entusiasmo por el aprendizaje continuo, ¡me encantaría conectar!.
+Si estás buscando un desarrollador dedicado con un gran entusiasmo por el aprendizaje continuo, ¡me encantaría conectar!. 
 
 *   **Correo Electrónico**: juanmarcelo.rodrigueztandil@gmail.com.
 *   **LinkedIn**: [in/juan-marcelo-rodriguez](https://www.linkedin.com/in/juan-marcelo-rodriguez).
 *   **X (Twitter)**: [@jmro_dev](https://x.com/jmro_dev).
 
 ---
-
 ### **Tecnologías y Herramientas**
 
 <div align="center">
